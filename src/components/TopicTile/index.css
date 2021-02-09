@@ -1,0 +1,13 @@
+.TopicTile {
+    margin: 25px;
+    display: inline-flex;
+}
+
+.TopicTile .badge-content {
+    display: flex;
+    align-items: center;
+}
+.TopicTile .star-icon {
+    font-size: 12px;
+    margin-right: 3px;
+}

@@ -1,0 +1,19 @@
+.Home {
+    text-align: center;
+    min-height: 500px;
+    display: flex;
+    flex-direction: column;
+}
+.Home .main-container {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Home .error {
+    color: #c00;
+}
+
+.Home .topic-container {
+    margin-top: 20px;
+}
