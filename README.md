@@ -10,7 +10,9 @@ React web application that displays all the [topics](https://docs.github.com/en/
 
 ### Pre-requisites
 
--   Create API token from Github Developer settings,
+
+-   Create API token from Github Developer settings.
+
 -   Place token in src/configs/github.json
 
 ### Running application
